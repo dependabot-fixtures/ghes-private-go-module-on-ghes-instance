@@ -1,0 +1,1 @@
+# ghes-private-go-modules-on-ghes-instance
